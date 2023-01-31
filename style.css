@@ -9,11 +9,33 @@ vertical-align: middle;
     
 }
     
-    
+    header{
+        background-color: white;
+    }
 
-   
-   
 
+   body{
+    background-color: lightgrey;
+    }
+   .fbottone{
+    background-color: blue;
+    border-color: blue;
+    border-radius: 10%;
+    color: white;
+    margin-right:5px ;
+
+   }
+   .sbottone{
+    border-color: lightgray;
+    border-radius: 10%;
+    color: gray;
+    margin-left: 5px;
+} 
+
+main{
+   text-align: left; 
+   margin-top: 40px;
+} 
 
 
     
