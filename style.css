@@ -33,9 +33,43 @@ vertical-align: middle;
 } 
 
 main{
-   text-align: left; 
-   margin-top: 40px;
+   margin-left: 50px;
+   margin-top: 100px;
+   background-color: white;
 } 
+.blue{
+    background-color: blue;
+    border-radius: 10%;
+    color:white ;  
+}
+.purple{
+    background-color:purple;
+    border-radius: 10%;
+    color:white ;  
+}
+.green{
+    background-color:green;
+    border-radius: 10%;
+    color:white ;  
+}
+
+.orange{
+    background-color:orangered;
+    border-radius: 10%;
+    color:white ;  
+}
+.magenta{
+    background-color:magenta;
+    border-radius: 10%;
+    color:white ;  
+}
+.greeny{
+    background-color:greenyellow;
+    border-radius: 10%;
+    color:white ;  
+}
+
+
 
 
     
