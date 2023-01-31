@@ -1,83 +1,81 @@
-
-
 .logo {
-vertical-align: middle;
+    vertical-align: middle;
 }
-.title{
+
+.title {
     font-weight: bold;
     font-size: 3rem;
-    
+
 }
-    
-    header{
-        background-color: white;
-    }
+
+header {
+    background-color: white;
+}
 
 
-   body{
+body {
     background-color: lightgrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-   .fbottone{
+}
+
+.fbottone {
     background-color: blue;
     border-color: blue;
     border-radius: 10%;
     color: white;
-    margin-right:5px ;
+    margin-right: 5px;
 
-   }
-   .sbottone{
+}
+
+.sbottone {
     border-color: lightgray;
     border-radius: 10%;
     color: gray;
     margin-left: 5px;
-} 
-
-main{
-   margin-left: 50px;
-   margin-top: 100px;
-   background-color: white;
-   
-} 
-.blue{
-background-color:blue;
-    width: 50px;
-    height: 50px;
-    display: inline-block;
-    border-radius: 50%;
-    
-     
 }
-.purple{
-    background-color:purple;
+
+main {
+    margin-left: 50px;
+    margin-top: 100px;
+    background-color: white;
+    padding: 3rem;
+    margin-right: 50px;
+}
+
+.blue {
+    background-color: blue;
     border-radius: 10%;
-    color:white ;  
+    color: white;
+
+
 }
-.green{
-    background-color:green;
+
+.purple {
+    background-color: purple;
     border-radius: 10%;
-    color:white ;  
+    color: white;
 }
 
-.orange{
-    background-color:orangered;
+.green {
+    background-color: green;
     border-radius: 10%;
-    color:white ;  
+    color: white;
 }
-.magenta{
-    background-color:magenta;
+
+.orange {
+    background-color: orangered;
     border-radius: 10%;
-    color:white ;  
+    color: white;
 }
-.greeny{
-    background-color:greenyellow;
+
+.magenta {
+    background-color: magenta;
     border-radius: 10%;
-    color:white ;  
+    color: white;
 }
 
-
-
-
-    
-
-
+.greeny {
+    background-color: greenyellow;
+    border-radius: 10%;
+    color: white;
+}
