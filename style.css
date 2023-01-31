@@ -10,6 +10,7 @@
 
 header {
     background-color: white;
+    
 }
 
 
@@ -79,6 +80,7 @@ main {
     border-radius: 10%;
     color: white;
 }
-footer{
+
+footer {
     margin-left: 50px;
 }
