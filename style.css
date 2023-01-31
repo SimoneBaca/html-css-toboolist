@@ -16,6 +16,7 @@ vertical-align: middle;
 
    body{
     background-color: lightgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
    .fbottone{
     background-color: blue;
@@ -36,6 +37,7 @@ main{
    margin-left: 50px;
    margin-top: 100px;
    background-color: white;
+   
 } 
 .blue{
     background-color: blue;
